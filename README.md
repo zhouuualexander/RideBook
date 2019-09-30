@@ -50,7 +50,7 @@ Offical UML diagrams will be available soon
 
 ## Appreciation
 
- - Thanks to my friends ***Tianqi Wang***, ***Jiahui Wang***,**Ruiqin Pi** I made this app seccessfully.
+ - Thanks to my friends ***Tianqi Wang***, ***Jiahui Wang***, ***Ruiqin Pi*** , I made this app seccessfully.
  - Please follow [Tianqi's github](https://github.com/TianqiCS), if you don't wanna lost yourself as a Computer Science beginer.
  
 
