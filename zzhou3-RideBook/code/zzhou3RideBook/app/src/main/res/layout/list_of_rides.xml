@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_weight="66.6"
+        android:background="#2DFC4A1A"
+        android:gravity="center"
+        android:text="Ride"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="15sp"
+        android:typeface="monospace" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight="33.3">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="40"
+            >
+
+            <TextView
+                android:id="@+id/date1"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_vertical"
+                android:text="date"
+                android:typeface="monospace">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/time1"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_vertical"
+                android:text="time"
+                android:typeface="monospace">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/distance1"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:gravity="center_vertical"
+                android:text="distance"
+                android:typeface="monospace"
+                android:layout_gravity="center_horizontal">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/aver1"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:gravity="center_vertical"
+                android:text="average speed"
+                android:typeface="monospace">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/average1"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center_vertical"
+                android:text="average cadence in revolutions per minute"
+                android:typeface="monospace">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/comment1"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_vertical"
+                android:text="comment"
+                android:typeface="monospace">
+
+            </TextView>
+        </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="60"
+        >
+
+        <TextView
+            android:id="@+id/date"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:gravity="center_vertical"
+            android:text="date"
+            android:typeface="monospace" >
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/time"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:gravity="center_vertical"
+            android:text="time"
+            android:typeface="monospace" >
+
+        </TextView>
+
+        <TextView
+        android:id="@+id/distance"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center_vertical"
+        android:text="distance"
+        android:typeface="monospace" >
+
+    </TextView>
+        <TextView
+            android:id="@+id/aver"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:gravity="center_vertical"
+            android:text="average speed"
+            android:typeface="monospace">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/average"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center_vertical"
+            android:text="average cadence in revolutions per minute"
+            android:typeface="monospace">
+
+        </TextView>
+        <TextView
+            android:id="@+id/comment"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:gravity="center_vertical"
+            android:text="comment"
+            android:typeface="monospace">
+
+        </TextView>
+    </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

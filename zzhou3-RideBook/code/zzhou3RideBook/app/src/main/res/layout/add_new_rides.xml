@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/ride_editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Ride"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/date_editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Date yyyy-mm-dd"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/time_editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Time hh:mm"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/distance_editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Distance non-negative decimal "
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/average_speed_editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Average speed non-negative decimal"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/acirpm_editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Acirpm non-negative integer"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/comment_editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Comment up to 20 characters"
+        android:inputType="textPersonName" />
+
+
+</LinearLayout>
