@@ -23,7 +23,7 @@ The app allow the user to:
 
 ## How to run this app
 
- 1. Download Android Studio
+ 1. Download [Android Studio](https://developer.android.com/studio)
  2. Git clone this repository to your device
  3. Drag directory **zzhou3RideBook** to Android Studio
  4. Run in Android Studio: for details of how to run please go to this website:[Run your app](https://developer.android.com/training/basics/firstapp/running-app)
