@@ -3,7 +3,7 @@
 This is the  **First assignment** in CMPUT301, University of Alberta. 
 
 
-## Knowledges
+## Knowledge
  - Java 
  - Android Studio
  - Object-oriented programming (OOP)
