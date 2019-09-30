@@ -28,7 +28,7 @@ The app allow the user to:
  2. Git clone this repository to your device
  3. Drag directory **zzhou3RideBook** to Android Studio
  4. Run in Android Studio: for details of how to run please go to this website:[Run your app](https://developer.android.com/training/basics/firstapp/running-app)
- 5. 
+
 ## Demo video
 
 You can find the demo video of this app here: [RideBook](https://www.youtube.com/watch?v=LUZFdbk2p2E&feature=youtu.be)
