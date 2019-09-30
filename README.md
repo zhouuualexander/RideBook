@@ -19,8 +19,7 @@ The app allow the user to:
 -   view and edit the details of an existing ride  
     
 -   delete a ride
--   see the total distance of all rides below the list of rides\n
-**This description is from University of Alberta CMPUT 301 COURSE PAGE**
+-   see the total distance of all rides below the list of rides <br/> **This description is from University of Alberta CMPUT 301 COURSE PAGE**
 
 ## How to run this app
 
